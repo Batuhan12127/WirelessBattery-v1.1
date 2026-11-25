@@ -1,5 +1,6 @@
 <img width="423" height="820" alt="Ekran görüntüsü 2026-11-25 223701" src="https://github.com/user-attachments/assets/241b036c-c6e7-486a-b2ee-18460d1b3339" />
 <img width="155" height="42" alt="Ekran görüntüsü 2026-11-25 223634" src="https://github.com/user-attachments/assets/00c1ba45-b7c7-4cc4-8864-925835a0e0fb" />
+
 # WirelessBattery – Wireless Headphone and Mouse Battery Indicator
 
 ---
